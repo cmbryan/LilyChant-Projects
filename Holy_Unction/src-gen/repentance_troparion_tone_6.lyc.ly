@@ -5,15 +5,19 @@
 % =======================
 alignleft = \once \override LyricText #'self-alignment-X = #-1
 
+% =======================
+% Score for Repentance Troparion, Tone 6
+% =======================
+
 %
 % voices
 %
 Sop = {
-	\bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" a \bar "" b2 \bar "" a \bar "|" fis4 \bar "" g \bar "" a \bar "" a \bar "" a \bar "" g \bar "" a2 \bar "" g \bar "" fis \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" a \bar "" b2 \bar "" a \bar "|" fis4 ( g ) \bar "" a \bar "" g \bar "" a2 ( g ) \bar "" fis \bar "|" g1 \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" a \bar "" b2 \bar "" a \bar "|" fis4 \bar "" g \bar "" a \bar "" a \bar "" g \bar "" a2 \bar "" g \bar "" fis \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" a \bar "" b2 \bar "" a \bar "|" fis4 \bar "" g \bar "" a \bar "" a \bar "" a \bar "" g \bar "" a2 \bar "" g \bar "" fis \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" a \bar "" b2 \bar "" b2 \bar "" a \bar "|" fis4 \bar "" g \bar "" a \bar "" a \bar "" a \bar "" a \bar "" g \bar "" a2 \bar "" g \bar "" fis \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" a \bar "" b2 \bar "" a \bar "|" fis4 \bar "" fis4 \bar "" fis4 \bar "" g \bar "" a \bar "" a \bar "" a \bar "" a \bar "" a \bar "" g \bar "" a2 \bar "" g \bar "" g \bar "" g \bar "" fis \bar "|" g1 \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" a \bar "" b2 \bar "" a \bar "|" fis4 ( g ) \bar "" a \bar "" a \bar "" a \bar "" g \bar "" a2 ( g ) \bar "" fis \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" a \bar "" b2 \bar "" b2 \bar "" a \bar "|" fis4 \bar "" fis4 \bar "" g \bar "" a \bar "" a \bar "" a \bar "" a \bar "" a \bar "" a \bar "" g \bar "" a2 ( g ) \bar "" fis \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" a \bar "" b2 \bar "" a \bar "|" fis4 ( g a ) \bar "" g \bar "" a2 \bar "" g \bar "" fis \bar "|" 
+	\bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" a' \bar "" b'2 \bar "" a' \bar "|" fis'4 \bar "" g' \bar "" a' \bar "" a' \bar "" a' \bar "" g' \bar "" a'2 \bar "" g' \bar "" fis' \bar "|" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" a' \bar "" b'2 \bar "" a' \bar "|" fis'4 ( g' ) \bar "" a' \bar "" g' \bar "" a'2 ( g' ) \bar "" fis' \bar "|" g'1 \bar "|" g'4 \bar "" g'4 \bar "" g'4 \bar "" a' \bar "" b'2 \bar "" a' \bar "|" fis'4 \bar "" g' \bar "" a' \bar "" a' \bar "" g' \bar "" a'2 \bar "" g' \bar "" fis' \bar "|" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" a' \bar "" b'2 \bar "" a' \bar "|" fis'4 \bar "" g' \bar "" a' \bar "" a' \bar "" a' \bar "" g' \bar "" a'2 \bar "" g' \bar "" fis' \bar "|" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" a' \bar "" b'2 \bar "" b'2 \bar "" a' \bar "|" fis'4 \bar "" g' \bar "" a' \bar "" a' \bar "" a' \bar "" a' \bar "" g' \bar "" a'2 \bar "" g' \bar "" fis' \bar "|" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" a' \bar "" b'2 \bar "" a' \bar "|" fis'4 \bar "" fis'4 \bar "" fis'4 \bar "" g' \bar "" a' \bar "" a' \bar "" a' \bar "" a' \bar "" a' \bar "" g' \bar "" a'2 \bar "" g' \bar "" g' \bar "" g' \bar "" fis' \bar "|" g'1 \bar "|" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" a' \bar "" b'2 \bar "" a' \bar "|" fis'4 ( g' ) \bar "" a' \bar "" a' \bar "" a' \bar "" g' \bar "" a'2 ( g' ) \bar "" fis' \bar "|" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" a' \bar "" b'2 \bar "" b'2 \bar "" a' \bar "|" fis'4 \bar "" fis'4 \bar "" g' \bar "" a' \bar "" a' \bar "" a' \bar "" a' \bar "" a' \bar "" a' \bar "" g' \bar "" a'2 ( g' ) \bar "" fis' \bar "|" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" a' \bar "" b'2 \bar "" a' \bar "|" fis'4 ( g' a' ) \bar "" g' \bar "" a'2 \bar "" g' \bar "" fis' \bar "|." 
 }
 
 Bass = {
-	\bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" d \bar "|" d4 \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d2 \bar "" d \bar "" d \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" d \bar "|" d4 ( d ) \bar "" d \bar "" d \bar "" d2 ( d ) \bar "" d \bar "|" g1 \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" d \bar "|" d4 \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d2 \bar "" d \bar "" d \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" d \bar "|" d4 \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d2 \bar "" d \bar "" d \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" g2 \bar "" d \bar "|" d4 \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d2 \bar "" d \bar "" d \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" d \bar "|" d4 \bar "" d4 \bar "" d4 \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d2 \bar "" d \bar "" d \bar "" d \bar "" d \bar "|" g1 \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" d \bar "|" d4 ( d ) \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d2 ( d ) \bar "" d \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" g2 \bar "" d \bar "|" d4 \bar "" d4 \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d2 ( d ) \bar "" d \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" d \bar "|" d4 ( d d ) \bar "" d \bar "" d2 \bar "" d \bar "" d \bar "|" 
+	\bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" d \bar "|" d4 \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d2 \bar "" d \bar "" d \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" d \bar "|" d4 ( d ) \bar "" d \bar "" d \bar "" d2 ( d ) \bar "" d \bar "|" g1 \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" d \bar "|" d4 \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d2 \bar "" d \bar "" d \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" d \bar "|" d4 \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d2 \bar "" d \bar "" d \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" g2 \bar "" d \bar "|" d4 \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d2 \bar "" d \bar "" d \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" d \bar "|" d4 \bar "" d4 \bar "" d4 \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d2 \bar "" d \bar "" d \bar "" d \bar "" d \bar "|" g1 \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" d \bar "|" d4 ( d ) \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d2 ( d ) \bar "" d \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" g2 \bar "" d \bar "|" d4 \bar "" d4 \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d \bar "" d2 ( d ) \bar "" d \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g \bar "" g2 \bar "" d \bar "|" d4 ( d d ) \bar "" d \bar "" d2 \bar "" d \bar "" d \bar "|." 
 }
 
 
@@ -43,10 +47,11 @@ words = \lyricmode {
 	of __ __ the Chris -- tian race. 
 }
 
-% =======================
-% Score
-% =======================
 \score {
+
+  % This produces a lilypond error, but still seems to render OK, so...
+  \header { title = "Repentance Troparion, Tone 6" }
+
   \new ChoirStaff \with {
     instrumentName = \markup \bold "Choir:"
   }
@@ -76,6 +81,7 @@ words = \lyricmode {
     }
   >>
 }
+
 
 % =======================
 % Layout

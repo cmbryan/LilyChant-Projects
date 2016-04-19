@@ -3,26 +3,26 @@ Tone six key G
 		Sop Bass
 	Phrase one
 		Voice Sop
-			g4 a b2 a
+			g'4 a' b'2 a'
 		Voice Bass
 			g4 g g2 d
 	Phrase two
 		Voice Sop
-			fis4 g a g a2 g fis
+			fis'4 g' a' g' a'2 g' fis'
 		Voice Bass
 			d4 d d d d2 d d
 	Phrase final
 		Voice Sop
-			fis4 g a g a g a2 g fis
+			fis'4 g' a' g' a' g' a'2 g' fis
 		Voice Bass
 			d4 d d d d d d2 d d
 	Phrase glory
 		Voice Sop
-			g1
+			g'1
 		Voice Bass
 			g1
-	
-Chant Tone six key G
+
+Chant "Repentance Troparion, Tone 6" Tone six key G
 	Phrase one
 		<Have mercy upon us, O Lord, have mer--cy> u--pon us;
 	Phrase two
