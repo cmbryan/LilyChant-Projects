@@ -1,0 +1,104 @@
+Tone four key G
+	Voices
+		Sop Bass
+		
+	Phrase iermosOne
+		Voice Sop
+			a'4 b' a' g' a'2
+		Voice Bass
+			d4 g d e d2
+	Phrase iermosTwo
+		Voice Sop
+			e'4 g' g'2 fis'4 g' a'2
+		Voice Bass
+			e4 e e2 d4 e d2
+	Phrase iermosFinal
+		Voice Sop
+			a'4 a'2 g'4 fis' e' fis' g' fis'2
+		Voice Bass
+			d4 d2 e4 d e d e d2
+		
+	Phrase one
+		Voice Sop
+			g'4 g'2 a' gis'
+		Voice Bass
+			g4 b2 a e
+	Phrase two
+		Voice Sop
+			a'4 a'2 g'
+		Voice Bass
+			a4 d2 g
+	Phrase glory
+		Voice Sop
+			g'1
+		Voice Bass
+			g1
+	Phrase final
+		Voice Sop
+			g'4 g'2 fis' g'
+		Voice Bass
+			g4 d2 d g
+
+Chant "Ode 6" Tone four key G
+	// Iermos
+//	The Church crieth unto Thee, O
+//Lord, I will sacrifice unto Thee,
+//with a voice of praise and
+//thanksgiving, purified from the
+//evil of demons, with the blood which flowed from Thy side,
+//with the abundance of Thy
+//mercy.
+
+	// Refrain
+	Phrase one
+		O mer--<ci--ful> Lord,
+	Phrase two
+		<hearken to the prayer of thy servants suppli><--ca--ting> thee. ||
+	
+	Phrase one
+		<O Lover of> man__--kind,
+	Phrase two
+		<who by thy word didst show a--><noin--ting is for> kings,
+	Phrase one
+		<and the same through High> Priests <didst per-->form:
+	Phrase two
+		<save also those who suffer, by the seal of thy com-->pas--sion.
+		
+	Phrase one
+		<Let no interposition of malignant demons, O> Sav__--iour,
+	Phrase two
+		<touch the senses of those signed with divine a-->noin--ting;
+	Phrase one
+		<but hedge> them a--bout
+	Phrase two
+		<with the> shel--ter
+	Phrase final
+		<of thy> glo__--ry. ||
+		
+	Phrase glory
+		Glory... ||
+
+	Phrase one
+		<Stretch forth from on> high thy hand,
+	Phrase two
+		<O thou who> <lov--est> man,
+	Phrase one
+		<and having sanctified thine oil, O> Sav__--iour,
+	Phrase two
+		<impart it to thy> ser--vants
+	Phrase final
+		<unto healing and deliverance> from all ills. ||
+		
+	Phrase glory
+		Now...Amen. ||
+
+	Phrase one
+		<O Mother of thy Creator, in thy divine> tem__--ple
+	Phrase two
+		<thou hast revealed thyself a fruitful> <o--live> tree,
+	Phrase one
+		<whereby the> world is found
+	Phrase two
+		<filled with> mer--cy.
+	Phrase final
+		<Therefore by the touching of thine intercessions save those who> suf__--fer.
