@@ -58,7 +58,6 @@ words = \lyricmode {
       <<{
 	  \new Voice = "Sop" {
 	    %\voiceOne
-	    \relative c''
 	    \Sop
 	  }
 	}>>
@@ -71,7 +70,6 @@ words = \lyricmode {
       <<{
 	  \new Voice = "Bass" {
 	    %\voiceOne
-	    \relative c'
 	    \Bass
 	  }
 	}>>
