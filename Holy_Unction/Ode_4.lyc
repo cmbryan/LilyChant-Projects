@@ -1,4 +1,4 @@
-Tone four key G
+Tone fourIermos
 	Voices
 		Sop Bass
 		
@@ -9,14 +9,18 @@ Tone four key G
 			d4 g d e d2
 	Phrase iermosTwo
 		Voice Sop
-			e'4 g' g'2 fis'4 g' a'2
+			e'4 g'2 fis'4 g' a'2
 		Voice Bass
-			e4 e e2 d4 e d2
+			e4 e2 d4 e d2
 	Phrase iermosFinal
 		Voice Sop
-			a'4 a'2 g'4 fis' e' fis' g' fis'2
+			a'4 a'2 g'4 fis' e' fis' g'2 fis'2
 		Voice Bass
-			d4 d2 e4 d e d e d2
+			d4 d2 e4 d e d e2 d2
+		
+Tone four
+	Voices
+		Sop Bass
 		
 	Phrase one
 		Voice Sop
@@ -28,7 +32,7 @@ Tone four key G
 			a'4 a'2 g'
 		Voice Bass
 			a4 d2 g
-	Phrase glory
+	Phrase gloryFinal
 		Voice Sop
 			g'1
 		Voice Bass
@@ -39,53 +43,37 @@ Tone four key G
 		Voice Bass
 			g4 d2 d g
 
-Chant "Ode 4" Tone four key G
-	// Iermos
-	Phrase iermosOne
-		<The Church, be-->hol__ __<--ding Thee>
-	Phrase iermosTwo
-		up--<lifted upon the Cross, O sun of> righ__--teous--ness,
-	Phrase iermosOne
-		<remained steadfast in its> prai__ __ ses
-	Phrase iermosTwo
-		and <worth--i--ly> cried un--to Thee,
-	Phrase iermosFinal
-		<glory to Thy> might,__ __ O__ __ Lord. ||
+Chant "Ode 4" Tone fourIermos
+	<The Church, be-->hol__ __<--ding Thee>
+	up--<lifted upon the Cross, O sun of> righ__--teous--ness,
+	<remained steadfast in its> prai__ __ ses
+	and <worth--i--ly> cried un--to Thee,
+	<glory to Thy> might,__ __ O__ __ Lord. ||
 
-	// Refrain
-	Phrase one
-		O mer--<ci--ful> Lord,
-	Phrase two
-		<hearken to the prayer of thy servants suppli><--ca--ting> thee. ||
+Chant Tone four
+	O mer--<ci--ful> Lord, |
+	<hearken to the prayer of thy servants suppli><--ca--ting> thee. ||
 	
-	Phrase one
-		<Thou, O Saviour, art as incor>--rupt<--i--ble> myrrh,
-	Phrase two
-		<emptied of thy grace and> <clean--sing the> world:
-	Phrase one
-		<divinely show pity and> mer__--cy
-	Phrase two
-		<to those who with faith anoint their> <bo--di--ly> wounds. ||
+Chant Tone four
+	<Thou, O Saviour, art as incor>--rupt<--i--ble> myrrh, |
+	<emptied of thy grace and> <clean--sing the> world: |
+
+	<divinely show pity and> mer__--cy |
+	<to those who with faith anoint their> <bo--di--ly> wounds. ||
 	
-	// Refrain
-	Phrase one
-		O mer--<ci--ful> Lord,
-	Phrase two
-		<hearken to the prayer of thy servants suppli><--ca--ting> thee. ||
-		
-	Phrase one
-		<Now that the senses of thy> ser--<vants are> signed
-	Phrase two
-		<with the seal of the joy of thy> mer--cy,
-	Phrase one
-		O Mas__--ter,
-	Phrase two
-		<make inaccessible and im--><pe--ne--tra>--ble
-	Phrase final
-		<the entry of all> ad--verse powers.
+Chant Tone four
+	O mer--<ci--ful> Lord, |
+	<hearken to the prayer of thy servants suppli><--ca--ting> thee. ||
 	
-	Phrase glory
-		Glory...
+Chant Tone four
+	<Now that the senses of thy> ser--<vants are> signed |
+	<with the seal of the joy of thy> mer--cy, |
+
+	O Mas__--ter, |
+	<make inaccessible and im--><pe--ne--tra>--ble |
+	(final) <the entry of all> ad--verse powers. ||
+
+	(gloryFinal) Glory... ||
 		
 	Phrase one
 		<Thou who> lov--est man
