@@ -1,0 +1,85 @@
+Tone fourIermos
+	Voices
+		Sop Bass
+		
+	Phrase iermosOne
+		Voice Sop
+			a'4 b' a' g' a'2
+		Voice Bass
+			d4 g d e d2
+	Phrase iermosTwo
+		Voice Sop
+			e'4 g'2 fis'4 g' a'2
+		Voice Bass
+			e4 e2 d4 e d2
+	Phrase iermosFinal
+		Voice Sop
+			a'2 g'4 fis' e' fis' g' fis'2
+		Voice Bass
+			d2 e4 d e d e d2
+		
+Tone four
+	Voices
+		Sop Bass
+		
+	Phrase one
+		Voice Sop
+			g'4 g'2 a' gis'
+		Voice Bass
+			g4 b2 a e
+	Phrase two
+		Voice Sop
+			a'4 a'2 g'
+		Voice Bass
+			a4 d2 g
+	Phrase gloryFinal
+		Voice Sop
+			g'1
+		Voice Bass
+			g1
+	Phrase final
+		Voice Sop
+			g'4 g'2 fis' g'
+		Voice Bass
+			g4 d2 d g
+
+Chant "Ode 3" Tone fourIermos
+	<Ве--се--лит--ся> о__ Те--бе |
+	<Цер--ковь Тво><--я Хрис--те, зо>--ву__--щи |
+	
+	<Ты мо--я кре--пость,> Гос__--по--ди |
+	<И при>--бе__--жи--ще, |
+	(iermosFinal) и у--тверж--де__--ни--е ||
+
+// Refrain
+Chant Tone four
+	Вла--ды--<кo Хрис>--те, |
+	<помилуй ра><--ба Тво--е>--го. ||
+
+Chant Tone four
+	<Ты един Сый дивный в чело>--вец<--ех вер>--ных |
+	<Ми--лости--вый, бол--я--щей> лю--те |
+	
+	<Даждь Хри--сте бла--го--дать Тво>--ю свы--ше |
+	<Елейный сучец иногда, ко умалению по>--то--па |
+	
+// Refrain
+Chant Tone four
+	Вла--ды--<кo Хрис>--те, |
+	<помилуй ра><--ба Тво--е>--го. ||
+
+Chant Tone four
+	<Божественным Твоим показавый мановением> Гос--по--ди, |
+	<спаси милостию> <страж--ду--щу>--ю ||
+	
+	(gloryFinal) Слава... ||
+	
+	<Свещею Божественнаго света, в милости Твоей, Христе, просвети по-->ма<--за--ни>--ем |
+	<и ныне верою к милости Твоей> <тща--щу--ю>--ся ||
+	
+	(gloryFinal) и.ныне... ||
+	
+	<Призри благоприятно Мати всех Твор>--ца свы--ше |
+	<и горькое озлобление разреши не><--ду--гу--ю>--щия |
+	(final) <молитвами тво>--и__--ми ||
+
