@@ -1,4 +1,4 @@
-Tone four key G
+Tone fourIermos
 	Voices
 		Sop Bass
 		
@@ -9,14 +9,18 @@ Tone four key G
 			d4 g d e d2
 	Phrase iermosTwo
 		Voice Sop
-			e'4 g' g'2 fis'4 g' a'2
+			e'4 g'2 fis'4 g' a'2
 		Voice Bass
-			e4 e e2 d4 e d2
+			e4 e2 d4 e d2
 	Phrase iermosFinal
 		Voice Sop
-			a'4 a'2 g'4 fis' e' fis' g' fis'2
+			a'4 a'2 g'4 fis' e' fis' g'2 fis'2
 		Voice Bass
-			d4 d2 e4 d e d e d2
+			d4 d2 e4 d e d e2 d2
+		
+Tone four
+	Voices
+		Sop Bass
 		
 	Phrase one
 		Voice Sop
@@ -28,7 +32,7 @@ Tone four key G
 			a'4 a'2 g'
 		Voice Bass
 			a4 d2 g
-	Phrase glory
+	Phrase gloryFinal
 		Voice Sop
 			g'1
 		Voice Bass
@@ -39,73 +43,49 @@ Tone four key G
 		Voice Bass
 			g4 d2 d g
 
-Chant "Ode 1" Tone four key G:
-	// Iermos
-	Phrase iermosOne
-		<When Israel of> old__ had passed
-	Phrase iermosTwo
-		<through the Ab><--yss of the Red Sea, with> un--wet__ feet,
-	Phrase iermosOne
-		<he overcame the power of Amalek in the> wil__--der--ness,
-	Phrase iermosTwo
-		<when the> <hands of Moses were stretched forth in the> shape of a cross. ||
+Chant "Iermos" Tone fourIermos
+	<When Israel of> old__ had passed |
+	<through the Ab><--yss of the Red Sea, with un>--wet__ feet, |
 
-	// Refrain
-	Phrase one
-		O mer--<ci--ful> Lord,
-	Phrase two
-		<hearken to the prayer of thy servants suppli><--ca--ting> thee. ||
+	<he overcame the power of Amalek in the> wil__--der--ness, |
+	<when the hands of> <Mos--es> were stretched forth |
+	(iermosFinal) <in the> shape__ __ of__ a cross. ||
 
-	Phrase one
-		<Master, who with the oil of com>--pas__--sion
-	Phrase two
-		<dost ever cheer both the souls and bodies of> mor--tals,	
-	Phrase one
-		<and dost guard the faithful with> oil;__ __
-	Phrase two
-		<be thou clement now to those who approach thee by means of> oil__
+Chant Tone four
+	O mer--<ci--ful> Lord, |
+	<hearken to the prayer of thy servants suppli><--ca--ting> thee. ||
+
+	<Master, who with the oil of com>--pas__--sion |
+	<dost ever cheer both the souls and bodies of> mor--tals, |
+
+	<and dost guard the> faith--<ful with> oil; |
+	<be thou clement now to those who approach thee by means of> oil__ |
 	
 	// Refrain
-	Phrase one
-		O mer--<ci--ful> Lord,
-	Phrase two
-		<hearken to the prayer of thy servants suppli><--ca--ting> thee. ||
-		
-	Phrase one
-		<The whole earth is> full__ __
-	Phrase two
-		<of thy mercy, O> Mas--ter;	
-	Phrase one
-		<wherefore, we who to--day are> mys--ti--c'lly
-	Phrase two
-		<anointed with thine> <oil di>--vine,
-	Phrase final
-		<ask in faith that thine inestimable mer--cy may be> gran--ted us. ||
-	
-	Phrase glory
-		Glory... ||
-	
-	Phrase one
-		<Lover of> man__--kind,
-	Phrase two
-		<who in pity for thine ailing> ser--vants,
-	Phrase one
-		<didst command thine A>--pos__--tles
-	Phrase two
-		<to perform thy sacred> unc--tion,
-	Phrase final
-		<do thou, through their entreaties, have mercy on> all <by thy> seal.
-	
-	Phrase glory
-		Now...Amen.
-	
-	Phrase one
-		<O Thou only> Chaste__ one,
-	Phrase two
-		<who didst bear the bountiful> <sea of> Peace;
-	Phrase one
-		<by thy constant inter>--ces<--sion with> God
-	Phrase two
-		<deliver thy servants from in><--fir--mities and> griefs,
-	Phrase final
-		<that they may magnify thee> cease--less--ly.
+	O mer--<ci--ful> Lord, |
+	<hearken to the prayer of thy servants suppli><--ca--ting> thee. ||
+
+	<The whole earth is> full__ __ |
+	<of thy mercy, O> Mas--ter;	 |
+
+	<wherefore, we who to--day are> mys--ti--c'lly |
+	<anointed with thine> <oil di>--vine, |
+	(final) <ask in faith that thine inestimable mer--cy may be> gran--ted us. ||
+
+	(gloryFinal) Glory... ||
+
+	<Lover of> man__--kind, |
+	<who in pity for thine ailing> ser--vants, |
+
+	<didst command thine A>--pos__--tles |
+	<to perform thy sacred> unc--tion, |
+	(final) <do thou, through their entreaties, have mercy on> all <by thy> seal. ||
+
+	(gloryFinal) Now...Amen. ||
+
+	<O Thou only> Chaste__ one, |
+	<who didst bear the bountiful> <sea of> Peace; |
+
+	<by thy constant inter>--ces<--sion with> God |
+	<deliver thy servants from in><--fir--mities and> griefs, |
+	(final) <that they may magnify thee> cease--less--ly. ||
