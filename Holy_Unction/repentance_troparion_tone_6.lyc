@@ -1,4 +1,4 @@
-Tone six key G
+Tone six
 	Voices
 		Sop Bass
 	Phrase one
@@ -11,64 +11,39 @@ Tone six key G
 			fis'4 g' a' g' a'2 g' fis'
 		Voice Bass
 			d4 d d d d2 d d
+	Phrase gloryFinal
+		Voice Sop
+			g'1
+		Voice Bass
+			g1
 	Phrase final
 		Voice Sop
 			fis'4 g' a' g' a' g' a'2 g' fis
 		Voice Bass
 			d4 d d d d d d2 d d
-	Phrase glory
-		Voice Sop
-			g'1
-		Voice Bass
-			g1
 
-Chant "Repentance Troparion, Tone 6" Tone six key G
-	Phrase one
-		<Have mercy upon us, O Lord, have mer--cy> u--pon us;
-	Phrase two
-		for we <sin--ners void> of all de--fence,
-	Phrase one
-		<offer unto Thee, as Master this sup>--pli--ca--tion:
-	Phrase two
-		Have__ mer--cy on__ us.
+Chant "Repentance Troparion, Tone 6" Tone six
+	<Have mercy upon us, O Lord, have mer--cy> u--pon us; |
+	for we <sin--ners void> of all de--fence, |
+	<offer unto Thee, as Master this sup>--pli--ca--tion: |
+	Have__ mer--cy on__ us. ||
 
-	Phrase glory
-		Glory...
+	(gloryFinal) Glory... |
 
-	Phrase one
-		<Lord, have mer>--cy on us,
-	Phrase two
-		for in <Thee have> we put our trust;
+	<Lord, have mer>--cy on us, |
+	for in <Thee have> we put our trust; |
+	<be not very wroth> a--gainst us, |
+	<neither> re--<mem--ber our> i--ni--qui--ties, |
+	<but look down upon us even now as Thou art> com--<pas--sion>--ate, |
+	and de--<li--ver us from> our e--ne--mies. |
+	<For Thou art our God, and we are> Thy peo--ple; |
+	<we are all> the <work of Thy hands, and> we call <u--pon Thy> name. |
 
-	Phrase one
-		<be not very wroth> a--gainst us,
-	Phrase two
-		<neither> re--<mem--ber our> i--ni--qui--ties,
+	(gloryFinal)Now...Amen. ||
 
-	Phrase one
-		<but look down upon us even now as Thou art> com--<pas--sion>--ate,
-	Phrase two
-		and de--<li--ver us from> our e--ne--mies. 
-
-	Phrase one
-		<For Thou art our God, and we are> Thy peo--ple;
-	Phrase two
-		<we are all> the <work of Thy hands, and> we call <u--pon Thy> name.
-
-	Phrase glory
-		Now...Amen.
-
-	Phrase one
-		<Open unto us the door of Thy tender> com--pas--sion,
-	Phrase two
-		O__ <Bles--sed The>--o--to__ kos;
-
-	Phrase one
-		<in that we have set> our <hope in> thee 
-	Phrase two
-		<may we> not <perish but through thee be delivered> from pe__--ril.
-
-	Phrase one
-		<For Thou art the> sal--va--tion
-	Phrase two
- 		of__ __ the Chris--tian race.
+	<Open unto us the door of Thy tender> com--pas--sion, |
+	O__ <Bles--sed The>--o--to__ kos; |
+	<in that we have set> our <hope in> thee |
+	<may we> not <perish but through thee be delivered> from pe__--ril. |
+	<For Thou art the> sal--va--tion |
+	/*(final)*/ of__ __ the Chris--tian race. ||
