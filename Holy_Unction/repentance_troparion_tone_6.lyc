@@ -1,27 +1,3 @@
-Tone six
-	Voices
-		Sop Bass
-	Phrase one
-		Voice Sop
-			g'4 a' b'2 a'
-		Voice Bass
-			g4 g g2 d
-	Phrase two
-		Voice Sop
-			fis'4 g' a' g' a'2 g' fis'
-		Voice Bass
-			d4 d d d d2 d d
-	Phrase gloryFinal
-		Voice Sop
-			g'1
-		Voice Bass
-			g1
-	Phrase final
-		Voice Sop
-			fis'4 g' a' g' a' g' a'2 g' fis
-		Voice Bass
-			d4 d d d d d d2 d d
-
 Chant "Repentance Troparion, Tone 6" Tone six
 	<Have mercy upon us, O Lord, have mer--cy> u--pon us; |
 	for we <sin--ners void> of all de--fence, |

@@ -24,11 +24,29 @@ Bass = {
 % Lyrics
 % =======================
 words = \lyricmode {
-	The Church crieth unto Thee, __ O Lord, 
-	I will sacrifice unto Thee, with a voice of praise and thanks -- giv __ __ -- ing, 
-	purified from the evil of de __ __ -- mons, 
-	with the blood which flowed from Thy side, 
-	with the a -- bun -- dance of Thy mer __ __ -- cy. 
+	The Church crieth unto 
+	Thee, __ 
+	O 
+	Lord, 
+	I will 
+	sacrifice unto Thee, with a voice of praise and thanks 
+	-- giv __ __ 
+	-- ing, 
+	purified from the evil of 
+	de __ __ 
+	-- mons, 
+	with the 
+	blood which 
+	flowed 
+	from 
+	Thy 
+	side, 
+	with the a -- 
+	bun -- 
+	dance of 
+	Thy 
+	mer __ __ 
+	-- cy. 
 }
 
 \score {
@@ -82,8 +100,13 @@ Bass = {
 % Lyrics
 % =======================
 words = \lyricmode {
-	O mer -- ci -- ful Lord, 
-	hearken to the prayer of thy servants suppli -- ca -- ting thee. 
+	O 
+	mer -- 
+	ci -- ful 
+	Lord, 
+	hearken to the prayer of thy servants suppli 
+	-- ca -- ting 
+	thee. 
 }
 
 \score {
@@ -135,10 +158,19 @@ Bass = {
 % Lyrics
 % =======================
 words = \lyricmode {
-	O Lover of man __ -- kind, 
-	who by thy word didst show a -- noin -- ting is for kings, 
-	and the same through High Priests didst per -- form: 
-	save also those who suffer, by the seal of thy com -- pas -- sion. 
+	O Lover of 
+	man __ 
+	-- kind, 
+	who by thy word didst show a -- 
+	noin -- ting is for 
+	kings, 
+	and the same through High 
+	Priests 
+	didst per -- 
+	form: 
+	save also those who suffer, by the seal of thy com -- 
+	pas -- 
+	sion. 
 }
 
 \score {
@@ -190,8 +222,13 @@ Bass = {
 % Lyrics
 % =======================
 words = \lyricmode {
-	O mer -- ci -- ful Lord, 
-	hearken to the prayer of thy servants suppli -- ca -- ting thee. 
+	O 
+	mer -- 
+	ci -- ful 
+	Lord, 
+	hearken to the prayer of thy servants suppli 
+	-- ca -- ting 
+	thee. 
 }
 
 \score {
@@ -243,23 +280,57 @@ Bass = {
 % Lyrics
 % =======================
 words = \lyricmode {
-	Let no interposition of malignant demons, O Sav __ -- iour, 
-	touch the senses of those signed with divine a -- noin -- ting; 
-	but hedge them a -- bout 
-	with the shel -- ter 
-	of thy glo __ -- ry. 
+	Let no interposition of malignant demons, O 
+	Sav __ 
+	-- iour, 
+	touch the senses of those signed with divine a -- 
+	noin -- 
+	ting; 
+	but hedge 
+	them 
+	a -- 
+	bout 
+	with the 
+	shel -- 
+	ter 
+	of thy 
+	glo __ 
+	-- ry. 
 	Glory... 
-	Stretch forth from on high thy hand, 
-	O thou who lov -- est man, 
-	and having sanctified thine oil, O Sav __ -- iour, 
-	impart it to thy ser -- vants 
-	unto healing and deliverance from all ills. 
+	Stretch forth from on 
+	high 
+	thy 
+	hand, 
+	O thou who 
+	lov -- est 
+	man, 
+	and having sanctified thine oil, O 
+	Sav __ 
+	-- iour, 
+	impart it to thy 
+	ser -- 
+	vants 
+	unto healing and deliverance 
+	from 
+	all 
+	ills. 
 	Now...Amen. 
-	O Mother of thy Creator, in thy divine tem __ -- ple 
-	thou hast revealed thyself a fruitful o -- live tree, 
-	whereby the world is found 
-	filled with mer -- cy. 
-	Therefore by the touching of thine intercessions save those who suf __ -- fer. 
+	O Mother of thy Creator, in thy divine 
+	tem __ 
+	-- ple 
+	thou hast revealed thyself a fruitful 
+	o -- live 
+	tree, 
+	whereby the 
+	world 
+	is 
+	found 
+	filled with 
+	mer -- 
+	cy. 
+	Therefore by the touching of thine intercessions save those who 
+	suf __ 
+	-- fer. 
 }
 
 \score {

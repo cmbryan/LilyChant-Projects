@@ -12,11 +12,11 @@ alignleft = \once \override LyricText #'self-alignment-X = #-1
 % voices
 %
 Sop = {
-	\bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" b' ( a' ) \bar "" g' \bar "" a'2 \bar "|" e'4 \bar "" e'4 \bar "" e'4 \bar "" g'2 \bar "" g'2 \bar "" g'2 \bar "" g'2 \bar "" g'2 \bar "" g'2 \bar "" g'2 \bar "" fis'4 ( g' ) \bar "" a'2 \bar "|" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" b' ( a' ) \bar "" g' \bar "" a'2 \bar "|" e'4 \bar "" e'4 \bar "" e'4 \bar "" e'4 \bar "" g'2 \bar "" g'2 \bar "" fis'4 \bar "" g' \bar "" a'2 \bar "|" a'4 \bar "" a'4 \bar "" a'2 ( g'4 fis' ) \bar "" e' ( fis' ) \bar "" g'2 \bar "" fis'2 \bar "|." 
+	\bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" b' ( a' ) \bar "" g' \bar "" a'2 \bar "|" e'4 \bar "" e'4 \bar "" e'4 \bar "" g' \bar "" g' \bar "" g' \bar "" g' \bar "" g' \bar "" g' \bar "" g' \bar "" g'2 ( fis'4 ) \bar "" g' \bar "|" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" b' ( a' ) \bar "" g' \bar "" a'2 \bar "|" e'4 \bar "" e'4 \bar "" e'4 \bar "" e'4 \bar "" g' \bar "" g' \bar "" g'2 \bar "" fis'4 \bar "" g' \bar "|" a'4 \bar "" a'4 \bar "" a'2 ( g'4 fis' ) \bar "" e' ( fis' ) \bar "" g'2 \bar "" fis'2 \bar "|." 
 }
 
 Bass = {
-	\bar "" d4 \bar "" d4 \bar "" d4 \bar "" g ( d ) \bar "" e \bar "" d2 \bar "|" e4 \bar "" e4 \bar "" e4 \bar "" e2 \bar "" e2 \bar "" e2 \bar "" e2 \bar "" e2 \bar "" e2 \bar "" e2 \bar "" d4 ( e ) \bar "" d2 \bar "|" d4 \bar "" d4 \bar "" d4 \bar "" d4 \bar "" d4 \bar "" d4 \bar "" d4 \bar "" d4 \bar "" g ( d ) \bar "" e \bar "" d2 \bar "|" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e2 \bar "" e2 \bar "" d4 \bar "" e \bar "" d2 \bar "|" d4 \bar "" d4 \bar "" d2 ( e4 d ) \bar "" e ( d ) \bar "" e2 \bar "" d2 \bar "|." 
+	\bar "" d4 \bar "" d4 \bar "" d4 \bar "" g ( d ) \bar "" e \bar "" d2 \bar "|" e4 \bar "" e4 \bar "" e4 \bar "" e \bar "" e \bar "" e \bar "" e \bar "" e \bar "" e \bar "" e \bar "" e2 ( d4 ) \bar "" e \bar "|" d4 \bar "" d4 \bar "" d4 \bar "" d4 \bar "" d4 \bar "" d4 \bar "" d4 \bar "" d4 \bar "" g ( d ) \bar "" e \bar "" d2 \bar "|" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e \bar "" e \bar "" e2 \bar "" d4 \bar "" e \bar "|" d4 \bar "" d4 \bar "" d2 ( e4 d ) \bar "" e ( d ) \bar "" e2 \bar "" d2 \bar "|." 
 }
 
 
@@ -24,11 +24,28 @@ Bass = {
 % Lyrics
 % =======================
 words = \lyricmode {
-	When Israel of old __ had passed 
-	through the Ab -- yss of the Red Sea, with un -- wet __ feet, 
-	he overcame the power of Amalek in the wil __ -- der -- ness, 
-	when the hands of Mos -- es were stretched forth 
-	in the shape __ __ of __ a cross. 
+	When Israel of 
+	old __ 
+	had 
+	passed 
+	through the Ab 
+	-- yss of the Red Sea, with un 
+	-- wet __ 
+	feet, 
+	he overcame the power of Amalek in the 
+	wil __ 
+	-- der 
+	-- ness, 
+	when the hands of 
+	Mos -- es 
+	were 
+	stretched 
+	forth 
+	in the 
+	shape __ __ 
+	of __ 
+	a 
+	cross. 
 }
 
 \score {
@@ -82,8 +99,13 @@ Bass = {
 % Lyrics
 % =======================
 words = \lyricmode {
-	O mer -- ci -- ful Lord, 
-	hearken to the prayer of thy servants suppli -- ca -- ting thee. 
+	O 
+	mer -- 
+	ci -- ful 
+	Lord, 
+	hearken to the prayer of thy servants suppli 
+	-- ca -- ting 
+	thee. 
 }
 
 \score {
@@ -135,10 +157,18 @@ Bass = {
 % Lyrics
 % =======================
 words = \lyricmode {
-	Master, who with the oil of com -- pas __ -- sion 
-	dost ever cheer both the souls and bodies of mor -- tals, 
-	and dost guard the faith -- ful with oil; 
-	be thou clement now to those who approach thee by means of oil __ 
+	Master, who with the oil of com 
+	-- pas __ 
+	-- sion 
+	dost ever cheer both the souls and bodies of 
+	mor -- 
+	tals, 
+	and dost guard the 
+	faith -- 
+	ful with 
+	oil; 
+	be thou clement now to those who approach thee by means of 
+	oil __ 
 }
 
 \score {
@@ -190,8 +220,13 @@ Bass = {
 % Lyrics
 % =======================
 words = \lyricmode {
-	O mer -- ci -- ful Lord, 
-	hearken to the prayer of thy servants suppli -- ca -- ting thee. 
+	O 
+	mer -- 
+	ci -- ful 
+	Lord, 
+	hearken to the prayer of thy servants suppli 
+	-- ca -- ting 
+	thee. 
 }
 
 \score {
@@ -243,23 +278,57 @@ Bass = {
 % Lyrics
 % =======================
 words = \lyricmode {
-	The whole earth is full __ __ 
-	of thy mercy, O Mas -- ter; 
-	wherefore, we who to -- day are mys -- ti -- c'lly 
-	anointed with thine oil di -- vine, 
-	ask in faith that thine inestimable mer -- cy may be gran -- ted us. 
+	The whole earth is 
+	full __ __ 
+	of thy mercy, O 
+	Mas -- 
+	ter; 
+	wherefore, we who to -- day are 
+	mys -- 
+	ti -- 
+	c'lly 
+	anointed with thine 
+	oil di 
+	-- vine, 
+	ask in faith that thine inestimable mer -- cy may be 
+	gran -- 
+	ted 
+	us. 
 	Glory... 
-	Lover of man __ -- kind, 
-	who in pity for thine ailing ser -- vants, 
-	didst command thine A -- pos __ -- tles 
-	to perform thy sacred unc -- tion, 
-	do thou, through their entreaties, have mercy on all by thy seal. 
+	Lover of 
+	man __ 
+	-- kind, 
+	who in pity for thine ailing 
+	ser -- 
+	vants, 
+	didst command thine A 
+	-- pos __ 
+	-- tles 
+	to perform thy sacred 
+	unc -- 
+	tion, 
+	do thou, through their entreaties, have mercy on 
+	all 
+	by thy 
+	seal. 
 	Now...Amen. 
-	O Thou only Chaste __ one, 
-	who didst bear the bountiful sea of Peace; 
-	by thy constant inter -- ces -- sion with God 
-	deliver thy servants from in -- fir -- mities and griefs, 
-	that they may magnify thee cease -- less -- ly. 
+	O Thou only 
+	Chaste __ 
+	one, 
+	who didst bear the bountiful 
+	sea of 
+	Peace; 
+	by thy constant inter 
+	-- ces 
+	-- sion with 
+	God 
+	deliver thy servants from in 
+	-- fir -- mities and 
+	griefs, 
+	that they may magnify thee 
+	cease -- 
+	less -- 
+	ly. 
 }
 
 \score {
