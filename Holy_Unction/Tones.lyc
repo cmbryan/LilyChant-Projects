@@ -66,3 +66,12 @@ Tone six
 			fis'4 g'4 a'4 g'4 a'4 g'4 a'2 g'2 fis2
 		Voice Bass
 			d4 d4 d4 d4 d4 d4 d2 d2 d2
+
+Tone eight
+	Voices
+		Sop Bass
+	Phrase one
+		Voice Sop
+			g'4 a'4 b'4 c''4 b'4 a'2 g'2
+		Voice Bass
+			g4 d4 g4 c4 g4 d2 g2

@@ -96,6 +96,87 @@ words = \lyricmode {
   >>
 }
 
+%
+% voices
+%
+Sop = {
+	\bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'2 ( a'2 ) \bar "" gis' \bar "|" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'2 \bar "" a'2 \bar "" a'2 \bar "" g'2 \bar "|" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'2 \bar "" a'2 \bar "" gis' \bar "|" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'2 \bar "" g'2 \bar "|" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'2 ( a'2 ) \bar "" gis' \bar "|" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'2 \bar "" g'2 \bar "|" g'4 \bar "" g'4 \bar "" g'2 \bar "" a'2 \bar "" gis' \bar "|" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'2 \bar "" a'2 \bar "" g'2 \bar "|" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'2 \bar "" fis'2 \bar "" g' \bar "|." 
+}
+
+Bass = {
+	\bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" b2 ( a2 ) \bar "" e2 \bar "|" a4 \bar "" a4 \bar "" a4 \bar "" d2 \bar "" d2 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" b2 \bar "" a2 \bar "" e2 \bar "|" a4 \bar "" a4 \bar "" a4 \bar "" a4 \bar "" a4 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" b2 ( a2 ) \bar "" e2 \bar "|" a4 \bar "" a4 \bar "" a4 \bar "" a4 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" g4 \bar "" b2 \bar "" a2 \bar "" e2 \bar "|" a4 \bar "" a4 \bar "" a4 \bar "" d2 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g2 \bar "" d2 \bar "" g2 \bar "|." 
+}
+
+
+% =======================
+% Lyrics
+% =======================
+words = \lyricmode {
+	Physician and help of those in 
+	sick __ 
+	-- ness, 
+	Redeemer and Saviour 
+	of the in -- 
+	firm; 
+	do thou, the Master and 
+	Lord 
+	of 
+	all, 
+	grant healing to thine infirm 
+	ser -- 
+	vants. 
+	Be clement, show 
+	mer __ 
+	-- cy 
+	to those who have 
+	sinned 
+	much, 
+	and deliver 
+	them, 
+	O 
+	Christ, 
+	from their in 
+	-- i -- qui 
+	-- ties, 
+	that they may glorify thy 
+	might 
+	di -- 
+	vine. 
+}
+
+\score {
+
+
+  \new ChoirStaff \with {
+    instrumentName = \markup \bold "Choir:"
+  }
+  <<
+    #(set-accidental-style 'neo-modern 'Score)
+    \new Staff {
+      \key g \major
+      \cadenzaOn
+      <<{
+	  \new Voice = "Sop" {
+	    %\voiceOne
+	    \Sop
+	  }
+	}>>
+    }
+    \new Lyrics \lyricsto "Sop" { \words }
+    \new Staff {
+      \key g \major
+      \clef bass
+      \cadenzaOn
+      <<{
+	  \new Voice = "Bass" {
+	    %\voiceOne
+	    \Bass
+	  }
+	}>>
+    }
+  >>
+}
+
 
 % =======================
 % Layout
