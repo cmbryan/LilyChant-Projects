@@ -12,11 +12,11 @@ alignleft = \once \override LyricText #'self-alignment-X = #-1
 % voices
 %
 Sop = {
-	\bar "" g'4 \bar "" a'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" c''4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" a'2 \bar "" g'2 \bar "|" g'4 \bar "" a'4 \bar "" b'4 \bar "" b'4 \bar "" c''4 \bar "" c''4 \bar "" c''4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" a'2 \bar "" a'2 \bar "" a'2 \bar "" g'2 \bar "|" g'4 \bar "" a'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" c''4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" a'2 \bar "" a'2 \bar "" g'2 \bar "|" g'4 \bar "" a'4 \bar "" b'4 \bar "" c''4 \bar "" c''4 \bar "" c''4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" a'2 \bar "" g'2 \bar "|" g'4 \bar "" a'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" c''4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" a'2 \bar "" a'2 \bar "" g'2 \bar "|." 
+	\bar "" g'4 \bar "" a'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" c''4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" a'2 \bar "" g'2 \bar "|" g'4 \bar "" a'4 \bar "" b'4 \bar "" b'4 \bar "" c''4 \bar "" c''4 \bar "" c''4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" a'2 \bar "" a'2 \bar "" a'2 \bar "" g'2 \bar "|" g'4 \bar "" a'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" c''4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" a'2 \bar "" a'2 \bar "" g'2 \bar "|" g'4 \bar "" a'4 \bar "" b'4 \bar "" c''4 \bar "" c''4 \bar "" c''4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" a'2 \bar "" g'2 \bar "|" g'4 \bar "" a'4 \bar "" b'4 \bar "" b'4 \bar "" b'4 \bar "" c''4 \bar "" c''4 \bar "" b'4 \bar "" b'4 \bar "" a'2 \bar "" a'2 \bar "" g'2 \bar "|." 
 }
 
 Bass = {
-	\bar "" g4 \bar "" d4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" c4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" d4 \bar "" g4 \bar "" g4 \bar "" c4 \bar "" c4 \bar "" c4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" d2 \bar "" d2 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" d4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" c4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" d2 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" d4 \bar "" g4 \bar "" c4 \bar "" c4 \bar "" c4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" d4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" c4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" d2 \bar "" d2 \bar "" g2 \bar "|." 
+	\bar "" g4 \bar "" d4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" c4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" d4 \bar "" g4 \bar "" g4 \bar "" c4 \bar "" c4 \bar "" c4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" d2 \bar "" d2 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" d4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" c4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" d2 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" d4 \bar "" g4 \bar "" c4 \bar "" c4 \bar "" c4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" d4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" c4 \bar "" c4 \bar "" g4 \bar "" g4 \bar "" d2 \bar "" d2 \bar "" g2 \bar "|." 
 }
 
 
@@ -55,8 +55,8 @@ words = \lyricmode {
 	for 
 	re -- 
 	sorting ever unto 
-	thee, 
-	we fervently im -- 
+	thee, we 
+	fervently im -- 
 	plore thy 
 	grace. 
 }

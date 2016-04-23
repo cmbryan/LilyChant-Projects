@@ -16,7 +16,7 @@ Sop = {
 }
 
 Bass = {
-	\bar "" g4 \bar "" g4 \bar "" g4 \bar "" g2 \bar "" g4 ( c4 ) \bar "" b2 ( c2 ) \bar "" g2 \bar "|" g4 \bar "" g4 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g2 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" c4 \bar "" b2 \bar "" c2 \bar "" g2 \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" g4 \bar "" g2 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" c4 \bar "" b2 \bar "" c2 \bar "" g2 \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" c2 ( g4 c4 ) \bar "" d2 \bar "" d2 \bar "" g2 \bar "|." 
+	\bar "" g4 \bar "" g4 \bar "" g4 \bar "" g2 \bar "" g4 ( c4 ) \bar "" b,2 ( c2 ) \bar "" g2 \bar "|" g4 \bar "" g4 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g2 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" c4 \bar "" b,2 \bar "" c2 \bar "" g2 \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" d2 \bar "" g2 \bar "|" g4 \bar "" g4 \bar "" g2 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" c4 \bar "" b,2 \bar "" c2 \bar "" g2 \bar "|" g4 \bar "" g4 \bar "" g4 \bar "" g4 \bar "" c2 ( g4 c4 ) \bar "" d2 \bar "" d2 \bar "" g2 \bar "|." 
 }
 
 
