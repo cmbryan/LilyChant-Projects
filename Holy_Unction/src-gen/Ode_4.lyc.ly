@@ -12,11 +12,11 @@ alignleft = \once \override LyricText #'self-alignment-X = #-1
 % voices
 %
 Sop = {
-	\bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" b'4 ( a'4 g'4 ) \bar "" a'2 \bar "" a'2 \bar "|" e'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'2 ( fis'4 ) \bar "" g'4 \bar "|" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" b'4 ( a'4 g'4 ) \bar "" a'2 \bar "|" e'4 \bar "" e'4 \bar "" e'4 \bar "" e'4 \bar "" g'4 \bar "" g'2 \bar "" fis'4 \bar "" g'4 \bar "|" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'2 ( g'4 fis'4 ) \bar "" e'4 ( fis'4 g'2 ) \bar "" fis'2 \bar "|." 
+	\bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" b'4 ( a'4 g'4 ) \bar "" a'2 \bar "" a'2 \bar "|" e'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'2 \bar "" fis'4 ( g'4 ) \bar "" a'2 \bar "|" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" b'4 ( a'4 g'4 ) \bar "" a'2 \bar "|" e'4 \bar "" e'4 \bar "" e'4 \bar "" e'4 \bar "" g'2 \bar "" fis'4 \bar "" g'4 \bar "" a'2 \bar "|" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'2 ( g'4 fis'4 ) \bar "" e'4 ( fis'4 g'2 ) \bar "" fis'2 \bar "|." 
 }
 
 Bass = {
-	\bar "" d4 \bar "" d4 \bar "" d4 \bar "" g4 ( d4 e4 ) \bar "" d2 \bar "" d2 \bar "|" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e2 ( d4 ) \bar "" e4 \bar "|" d4 \bar "" d4 \bar "" d4 \bar "" d4 \bar "" g4 ( d4 e4 ) \bar "" d2 \bar "|" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e2 \bar "" d4 \bar "" e4 \bar "|" d4 \bar "" d4 \bar "" d4 \bar "" d2 ( e4 d4 ) \bar "" e4 ( d4 e2 ) \bar "" d2 \bar "|." 
+	\bar "" d4 \bar "" d4 \bar "" d4 \bar "" g4 ( d4 e4 ) \bar "" d2 \bar "" d2 \bar "|" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e2 \bar "" d4 ( e4 ) \bar "" d2 \bar "|" d4 \bar "" d4 \bar "" d4 \bar "" d4 \bar "" g4 ( d4 e4 ) \bar "" d2 \bar "|" e4 \bar "" e4 \bar "" e4 \bar "" e4 \bar "" e2 \bar "" d4 \bar "" e4 \bar "" d2 \bar "|" d4 \bar "" d4 \bar "" d4 \bar "" d2 ( e4 d4 ) \bar "" e4 ( d4 e2 ) \bar "" d2 \bar "|." 
 }
 
 
@@ -28,8 +28,9 @@ words = \lyricmode {
 	hol __ __ 
 	-- ding Thee 
 	up -- 
-	lifted upon the Cross, O sun of righ 
-	-- teous __ 
+	lifted upon the Cross, O sun of 
+	righ -- 
+	teous __ 
 	-- ness, 
 	remained steadfast in its 
 	prai __ __ 
