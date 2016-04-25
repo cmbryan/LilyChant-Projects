@@ -88,6 +88,64 @@ words = \lyricmode {
 % voices
 %
 Sop = {
+	\bar "" g'4 \bar "" g'2 \bar "" a'2 \bar "" a'2 \bar "" gis' \bar "|" a'4 \bar "" a'4 \bar "" a'2 \bar "" a'2 \bar "" a'2 \bar "" g'2 \bar "|." 
+}
+
+Bass = {
+	\bar "" g4 \bar "" b2 \bar "" a2 \bar "" a2 \bar "" e2 \bar "|" a4 \bar "" a4 \bar "" d2 \bar "" d2 \bar "" d2 \bar "" g2 \bar "|." 
+}
+
+
+% =======================
+% Lyrics
+% =======================
+words = \lyricmode {
+	Вла -- 
+	ды -- 
+	кo Хрис 
+	-- те, 
+	помилуй ра 
+	-- ба Тво -- е 
+	-- го. 
+}
+
+\score {
+
+
+  \new ChoirStaff \with {
+    instrumentName = \markup \bold "Choir:"
+  }
+  <<
+    #(set-accidental-style 'neo-modern 'Score)
+    \new Staff {
+      \key g \major
+      \cadenzaOn
+      <<{
+	  \new Voice = "Sop" {
+	    %\voiceOne
+	    \Sop
+	  }
+	}>>
+    }
+    \new Lyrics \lyricsto "Sop" { \words }
+    \new Staff {
+      \key g \major
+      \clef bass
+      \cadenzaOn
+      <<{
+	  \new Voice = "Bass" {
+	    %\voiceOne
+	    \Bass
+	  }
+	}>>
+    }
+  >>
+}
+
+%
+% voices
+%
+Sop = {
 	\bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'2 \bar "" a'2 \bar "" gis' \bar "|" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'2 \bar "" a'2 \bar "" g'2 \bar "|" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'2 \bar "" a'2 \bar "" a'2 \bar "" a'2 \bar "" gis' \bar "|" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'4 \bar "" a'2 \bar "" a'2 \bar "" a'2 \bar "" a'2 \bar "" a'2 \bar "" a'2 \bar "" g'2 \bar "|" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'4 \bar "" g'2 ( fis'2 ) \bar "" g' \bar "|." 
 }
 
